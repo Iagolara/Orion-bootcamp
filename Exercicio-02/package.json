@@ -1,0 +1,14 @@
+{
+  "name": "exercicio-02",
+  "version": "1.0.0",
+  "description": "API simples com Express e Postgres",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.11.3"
+  }
+}
